@@ -27,7 +27,7 @@ Download the following files to help you get started:
 
 https://static.bc-edx.com/data/dl-1-2/m3/lms/starter/Starter_Code.zip
 
-### PyBank Instructions
+# PyBank Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 Your task is to create a Python script that analyzes the records to calculate each of the following values:
@@ -48,7 +48,7 @@ Your analysis should align with the following results:
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-### PyPoll Instructions
+# PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
 You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
